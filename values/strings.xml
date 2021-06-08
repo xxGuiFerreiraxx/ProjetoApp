@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppSorteio</string>
+    <string name="ultimos_lancamentos">Últimos Lançamentos</string>
+    <string name="ver_sobre_o_filme">Ver sobre o Filme</string>
+    <string name="sobre_avatar">Avatar é um filme épico de ficção científica estadunidense de 2009, escrito e dirigido por James Cameron, e estrelado por Sam Worthington, Zoë Saldaña, Michelle Rodriguez, Sigourney Weaver e Stephen Lang. O filme, que foi produzido pela Lightstorm Entertainment e distribuído pela 20th Century Fox, tem seu enredo localizado no ano 2154 e é baseado em um conflito em Pandora, uma das luas de Polifemo, um dos três planetas gasosos fictícios que orbitam o sistema Alpha Centauri</string>
+    <string name="imagem_avatar">imagem_avatar</string>
+    <string name="imagem_lancamento">imagem_lancamento</string>
+    <string name="menu">menu</string>
+    <string name="lupa">lupa</string>
+    <string name="busca">procurar...</string>
+    <string name="filme5">filme5</string>
+    <string name="filme4">filme4</string>
+    <string name="filme3">filme3</string>
+    <string name="filme2">filme2</string>
+    <string name="filme6">filme6</string>
+    <string name="filme7">filme7</string>
+    <string name="filme8">filme8</string>
+    <string name="filme9">filme9</string>
+    <string name="img_coracao">img_coracao</string>
+    <string name="melhores_avaliacoes">Melhores Avaliações</string>
+</resources>
